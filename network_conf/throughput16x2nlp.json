@@ -1,0 +1,20 @@
+{"network_config": 
+    [
+        ["stage0",  {"model": [0, 16], "parallel":   [0, 1]}],
+        ["stage1",  {"model": [1, 17], "parallel":   [2, 3]}],
+        ["stage2",  {"model": [2, 18], "parallel":   [4, 5]}],
+        ["stage3",  {"model": [3, 19], "parallel":   [6, 7]}],
+        ["stage4",  {"model": [4, 20], "parallel":   [8, 9]}],
+        ["stage5",  {"model": [5, 21], "parallel":   [10,11]}],
+        ["stage6",  {"model": [6, 22], "parallel":   [12,13]}],
+        ["stage7",  {"model": [7, 23], "parallel":   [14,15]}],
+        ["stage8",  {"model": [8, 24], "parallel":   [16,17]}],
+        ["stage9",  {"model": [9, 25], "parallel":   [18,19]}],
+        ["stage10", {"model": [10,26], "parallel":   [20,21]}],
+        ["stage11", {"model": [11,27], "parallel":   [22,23]}],
+        ["stage12", {"model": [12,28], "parallel":   [24,25]}],
+        ["stage13", {"model": [13,29], "parallel":   [26,27]}],
+        ["stage14", {"model": [14,30], "parallel":   [28,29]}],
+        ["stage15", {"model": [15,31], "parallel":   [30,31]}]
+    ]
+}

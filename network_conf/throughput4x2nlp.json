@@ -1,0 +1,9 @@
+{"network_config": 
+    [
+        ["stage0", {"model": [0, 4], "parallel": [0, 4]}],
+        ["stage1", {"model": [1, 5], "parallel": [1, 5]}],
+        ["stage2", {"model": [2, 6], "parallel": [2, 6]}],
+        ["stage3", {"model": [3, 7], "parallel": [3, 7]}]
+    ]
+}
+

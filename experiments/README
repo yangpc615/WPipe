@@ -1,0 +1,5 @@
+This experiments should be execute in the root directory of repository
+
+```
+sh experiments/nlp_throughput_single_node.sh
+```
